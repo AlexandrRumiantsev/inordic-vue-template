@@ -1,1 +1,1 @@
-# inordic-vue-template
+Базовый шаблон проекта vue3 в inordic school 
